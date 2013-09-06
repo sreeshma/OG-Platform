@@ -87,5 +87,4 @@ Full details are in the README of the eclipse subdirectory.
 
 
 More information
-----------------
 For more information go to http://developers.opengamma.com
